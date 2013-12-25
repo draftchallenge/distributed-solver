@@ -12,6 +12,6 @@ solved with a dummy implementation and finally substituted by their sub solution
 
 This is continuing until only one element is left at the working stack, which is indicating the final solution.
 
-Shunting yard algorithm is using with less functionality as described in common literature.
+Shunting yard algorithm is implemented with less functionality as described in common literature.
 Only numbers and operators like +, - , * , /, ( and ) are recognized. Functions and so one are not working within
 this implementation.
