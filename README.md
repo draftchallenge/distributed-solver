@@ -1,7 +1,6 @@
-distributed-solver
-==================
+# distributed-solver
 
-This implementation is solving a mathematical expression.
+This implementation is solving a mathematical expression distributed using Dijkstra's Shunting yard algorithm.
 
 See Test.java for a demonstration how to use Parser.java.
 
